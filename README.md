@@ -1,6 +1,6 @@
-# whether_app
+# weather_app
 
-A whether app project.
+A weather app project.
 
 ## Getting Started
 
